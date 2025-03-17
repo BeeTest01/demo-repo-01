@@ -1,1 +1,1 @@
-SOme other new file:)
+Some other new file:)
