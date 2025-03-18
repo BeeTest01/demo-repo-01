@@ -1,7 +1,7 @@
 # My file
 
-duppa
+Duppa
 
-- duppa
+- Duppa
 
-1. duppa
+1. Duppa
